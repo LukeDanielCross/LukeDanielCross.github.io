@@ -7,7 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<body>
 <iframe src="https://drive.google.com/file/d/1E44okfSjBSEUcZ_ja4HVTKNVf9uqN6DW/view?usp=sharing" width="100%" height="500px">
 </iframe>
-</body>
