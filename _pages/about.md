@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+Hi.
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm Luke Daniel Cross, a Florida-born writer, researcher and teacher. Most of my professional focus is centered around mass communications: transnational political communication, mass communication ethics, and the communication of political theory. Records of the work I've done can be found in the navigation bar above. I also collect soviet watches, enjoy Scottish whisky, and occasionally read stuff; check out the blog posts for any of that nonsense.
